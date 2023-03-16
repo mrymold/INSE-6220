@@ -24,3 +24,7 @@ from itertools import cycle
 from sklearn.naive_bayes import GaussianNB
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
+
+
+#Bioinformatics data analysis and visualization toolkit
+#!pip install bioinfokit
